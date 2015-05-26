@@ -1,2 +1,2 @@
-# belajae-di-manual
+# belajar-di-manual
 Belajar Dependency Injection secara manual
